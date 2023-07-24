@@ -2,9 +2,8 @@
 
 ---
 
-### Project 1 
+### GloBox A/B testing 
 
-[GloBox A/B testing](/sample_page)
 <img src="images/GloBox_Project_logo.png?raw=true"/>
 
 
