@@ -8,8 +8,6 @@
 <img src="images/GloBox_Project_logo.png?raw=true"/>
 
 
-### Category Name 2
-
 - [GloBox A/B testing](http://example.com/)
 
 
