@@ -1,18 +1,17 @@
 title: Anhelina Baftalovska # your name (or website title) here
 logo: "/images/Angelina_logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analyst
+  Data Analyst 
   <br><br>
-  I’m a data analyst who is focusing on problem solving using 
-  database queries, SQL, data visualization, dashboards, reports,
-  and spreadsheets. I have been working as a freelance Data Analyst
-  for the past 3 years. Recently, I achieved Data Analysis certificates 
-  from Udacity, Coursera, UCSC, and MasterSchool. Right now, I’m
-  looking to land a new job as full time Data Analyst in the tech field.
+  I’m a data analyst who is focusing on problem solving using database queries, 
+  SQL, data visualization, dashboards, reports, and spreadsheets. I have been 
+  working as a freelance Data Analyst for the past 3 years. Recently, I achieved
+  Data Analysis certificates from Udacity, Coursera, UCSC, and MasterSchool. Right
+  now, I’m looking to land a new job as full time Data Analyst in the tech field. 
   <br><br>
   <a href="https://www.linkedin.com/in/angelina-baftalovska/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
