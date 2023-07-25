@@ -9,4 +9,11 @@ Further analysis revealed insights based on different factors such as device typ
 Additionally, a power analysis and join curve forecast suggest that a larger sample size would be required to achieve sufficient statistical power and accurately capture the desired effects. Therefore, it is recommended to rerun the test at a larger scale to ensure more reliable results.
 In summary, based on the significant difference in conversion rate and the potential for acquiring more paying customers, it is recommended to launch the banner feature. However, further data analysis and a larger sample size are necessary to gain a deeper understanding of the banner's impact and optimize its effectiveness in generating higher revenue. Improvements can be made by considering additional user factors and conducting a more extensive power analysis.
 
+### GloBox A/B testing 
+
+<img src="images/GloBox_Project_logo.png?raw=true"/>
+
+
+- [GloBox A/B testing report](https://Angelinabaf.github.io/pdf/GloBox_A_Btesting_Report.pdf)
+- [GloBox A/B testing presentation](https://Angelinabaf.github.io/pdf/A_B_Testing_presentation.pdf)
 
