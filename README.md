@@ -1,51 +1,12 @@
-## Developer Portfolio Landing Page Template
+## A/B Test Analysis for GloBox Website.
+By: Anhelina Baftalovska
 
-### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+### Summary
+In this A/B test analysis of the GloBox website, two versions of a web page were compared: a control group without a banner and a treatment group with a food and drink banner at the top of the website. The analysis focused on the metrics of conversion rate and average amount spent per user.
+The results indicate that users who were exposed to the banner had a significantly higher conversion rate compared to the control group. However, there was no statistically significant difference in the average amount spent per user between the two groups.
+Further analysis revealed insights based on different factors such as device type, gender, and region/country. These insights provide a preliminary understanding of user behavior, but more comprehensive data on user demographics and campaign targeting would be beneficial.
+Additionally, a power analysis and join curve forecast suggest that a larger sample size would be required to achieve sufficient statistical power and accurately capture the desired effects. Therefore, it is recommended to rerun the test at a larger scale to ensure more reliable results.
+In summary, based on the significant difference in conversion rate and the potential for acquiring more paying customers, it is recommended to launch the banner feature. However, further data analysis and a larger sample size are necessary to gain a deeper understanding of the banner's impact and optimize its effectiveness in generating higher revenue. Improvements can be made by considering additional user factors and conducting a more extensive power analysis.
 
-<img src="images/demo.gif?raw=true"/>
 
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
