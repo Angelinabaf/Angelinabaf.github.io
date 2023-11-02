@@ -13,7 +13,7 @@ Access a detailed project report that provides a thorough breakdown of the analy
 #### Project Presentation: 
 View the project presentation, which encapsulates the key findings and recommendations in a concise and engaging format. This presentation aims to provide a quick overview of the project's main insights.
 
-<img src="images/metrocar.png?raw=true"/>
+<img src="images/Metrocar.png?raw=true"/> 
 
 - [Metrocar report](https://Angelinabaf.github.io/pdf/Metrocar_report.pdf)
 - [Metrocar presentation](https://Angelinabaf.github.io/pdf/Metrocar_presentation.pdf)
