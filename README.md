@@ -1,34 +1,37 @@
 ## Projects
 By: Anhelina Baftalovska
 
-## Customer Segmentation for TravelTide's Rewards Program
-### Summary
+## Metrocar Funnel Analysis
+### Overview
+The Metrocar project revolves around optimizing the user experience within a ride-sharing app. It is a testament to my analytical skills and ability to provide actionable insights to drive business decisions.
+### Key Features
+In this project, I employed SQL for data retrieval and harnessed Tableau for data visualization. Together, these tools allowed me to explore critical aspects of the Metrocar customer funnel. The project is structured to provide a clear path through the analysis and offers a robust understanding of user behavior and potential areas for enhancement.
+#### Tableau Visualizations:
+Explore interactive data visualizations created in Tableau, showcasing insights from the Metrocar project. These visualizations offer a dynamic way to understand user behavior, drop-off points, platform analysis, age group performance, surge pricing, and wait time optimization.
+#### Project Report:
+Access a detailed project report that provides a thorough breakdown of the analysis. This report serves as a comprehensive resource for understanding Metrocar's customer funnel, identifying areas for improvement, and deriving actionable recommendations.
+#### Project Presentation: 
+View the project presentation, which encapsulates the key findings and recommendations in a concise and engaging format. This presentation aims to provide a quick overview of the project's main insights.
 
-#### Introduction/Background:
-TravelTide, an e-booking startup, aims to enhance customer retention by designing a personalized rewards program. The goal is to select attractive perks for customers and assign them to segments based on their likely favorite perk.
-#### Methodology:
-Conducted in-depth analysis of customer data using SQL queries and Tableau.
-Explored various customer behaviors and attributes to identify affinities to specific perks.
-Segmented customers based on their preferences for different perks.
-#### Perk Segmentation:
-Free Hotel Meal: Targeted marketing for families with children and single parents who value free meals during their stay.
-Free Checked Bags: Targeted users who book longer flights and check multiple bags, emphasizing cost-saving benefits.
-No Cancellation Fees: Offered to users who frequently engage in trip cancellations, particularly those who book flights with hotels.
-1 Night Free Hotel with Flight: Promoted for users who book flights and hotels together for quick layovers or short stays.
-Exclusive Discount: Focused on users who book both flights and hotels together, offering exclusive discounts for repeat bookings.
-#### Recommendations:
-Create tailored marketing campaigns and email invitations for each perk based on user segments.
-Implement A/B testing for email optimization.
-Monitor user engagement metrics.
-Collect feedback to refine perk offerings and strategies.
-Establish a customer support system for perk redemption and queries.
-#### Next Steps:
-Launch segmented email campaigns.
-Conduct A/B testing for email content and design.
-Monitor user engagement and collect feedback.
-Continuously refine perk offerings and strategies.
-Provide dedicated customer support for perk-related inquiries.
-By following this structured approach, TravelTide aims to attract and retain customers by offering perks aligned with their preferences and continuously adapting to evolving user behavior and market dynamics.
+<img src="images/metrocar.png?raw=true"/>
+
+- [Metrocar report](https://Angelinabaf.github.io/pdf/Metrocar_report.pdf)
+- [Metrocar presentation](https://Angelinabaf.github.io/pdf/Metrocar_presentation.pdf)
+- [Metrocar Tableau](https://public.tableau.com/views/Metrocar-funnel_analysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+## Customer Segmentation for TravelTide's Rewards Program
+### Overview
+The "Customer Segmentation & Personalized Rewards Program Optimization" project is dedicated to improving customer retention and enhancing the user experience at TravelTide, a prominent e-booking startup. It showcases my proficiency in data analysis and my ability to generate actionable insights for informed business decisions.
+### Key Features
+In this project, I skillfully leveraged SQL for data retrieval and harnessed the power of Tableau for data visualization. These tools enabled a deep dive into TravelTide's customer data, shedding light on essential facets of user behavior and segmentation. The project offers a structured approach to understanding customer preferences and presents opportunities for tailored perks and personalization.
+#### Tableau Visualizations:
+Explore a collection of interactive Tableau visualizations that bring the TravelTide project's insights to life. These visualizations provide dynamic insights into customer segmentation, perk preferences, and strategic recommendations.
+#### Project Report:
+Access an in-depth project report that delves into every aspect of the analysis. This report serves as a comprehensive reference for comprehending the TravelTide customer landscape, emphasizing segments and their preferred perks, and concluding with strategic guidance.
+#### Project Presentation:
+View the project presentation, condensing the project's critical findings and recommendations into a concise, engaging format. This presentation aims to provide a quick overview of the project's main takeaways, making it accessible to a broader audience.
+
 <img src="images/Customer segmentation.png?raw=true"/> 
 
 - [TravelTide report](https://Angelinabaf.github.io/pdf/Report_Travel_Tide.pdf)
@@ -37,14 +40,14 @@ By following this structured approach, TravelTide aims to attract and retain cus
 
 
 ## A/B Test Analysis for GloBox Website.
-### Summary
-In this A/B test analysis of the GloBox website, two versions of a web page were compared: a control group without a banner and a treatment group with a food and drink banner at the top of the website. The analysis focused on the metrics of conversion rate and average amount spent per user.
-The results indicate that users who were exposed to the banner had a significantly higher conversion rate compared to the control group. However, there was no statistically significant difference in the average amount spent per user between the two groups.
-Further analysis revealed insights based on different factors such as device type, gender, and region/country. These insights provide a preliminary understanding of user behavior, but more comprehensive data on user demographics and campaign targeting would be beneficial.
-Additionally, a power analysis and join curve forecast suggest that a larger sample size would be required to achieve sufficient statistical power and accurately capture the desired effects. Therefore, it is recommended to rerun the test at a larger scale to ensure more reliable results.
-In summary, based on the significant difference in conversion rate and the potential for acquiring more paying customers, it is recommended to launch the banner feature. However, further data analysis and a larger sample size are necessary to gain a deeper understanding of the banner's impact and optimize its effectiveness in generating higher revenue. Improvements can be made by considering additional user factors and conducting a more extensive power analysis.
-
-### GloBox A/B testing 
+### Overview
+This A/B Test Analysis project centers on the GloBox website and its endeavor to evaluate the impact of a newly introduced banner feature. It delves into the effectiveness of this feature in promoting food and drink products on the platform. Conducted over a span of 13 days from January 25th to February 6th, 2023, the project emphasizes user behavior analysis based on two critical metrics: conversion rate and average amount spent.
+### Key Features
+Tableau Visualizations: Explore interactive data visualizations created in Tableau, presenting insights derived from the GloBox A/B test analysis. These visualizations provide a dynamic means of comprehending the impact of the banner feature on conversion rates and average spending.
+#### Project Report:
+Access a comprehensive report that meticulously breaks down the A/B test analysis. This report functions as a detailed resource for understanding the test's results, as well as its implications and recommendations.
+#### Project Presentation: 
+Dive into the project presentation, a succinct yet engaging overview of the key findings and recommendations. This presentation aims to encapsulate the primary insights from the A/B test analysis and its relevance to the GloBox website's objectives.
 
 <img src="images/GloBox_Project_logo.png?raw=true"/>
 
