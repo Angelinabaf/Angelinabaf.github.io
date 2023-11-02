@@ -2,6 +2,15 @@
 
 ---
 
+### Metrocar Funnel Analysis
+<img src="images/Metrocar.png?raw=true"/> 
+
+- [Metrocar report](https://Angelinabaf.github.io/pdf/Metrocar_report.pdf)
+- [Metrocar presentation](https://Angelinabaf.github.io/pdf/Metrocar_presentation.pdf)
+- [Metrocar Tableau](https://public.tableau.com/views/Metrocar-funnel_analysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+---
+
 ### TravelTide Customer Segmentation
 
 <img src="images/Customer segmentation.png?raw=true"/> 
