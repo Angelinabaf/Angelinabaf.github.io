@@ -15,10 +15,10 @@ Access a detailed project report that provides a thorough breakdown of the analy
 #### Project Presentation: 
 View the project presentation, which encapsulates the key findings and recommendations in a concise and engaging format. This presentation aims to provide a quick overview of the project's main insights.
 
-<img src="images/Metrocar.png?raw=true"/> 
+<img src="Metrocar/Metrocar.png?raw=true"/> 
 
-- [Metrocar report](https://Angelinabaf.github.io/pdf/Metrocar_report.pdf)
-- [Metrocar presentation](https://Angelinabaf.github.io/pdf/Metrocar_presentation.pdf)
+- [Metrocar report](https://Angelinabaf.github.io/Metrocar/Metrocar_report.pdf)
+- [Metrocar presentation](https://Angelinabaf.github.io/Metrocar/Metrocar_presentation.pdf)
 - [Metrocar Tableau](https://public.tableau.com/views/Metrocar-funnel_analysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
@@ -36,10 +36,10 @@ Access an in-depth project report that delves into every aspect of the analysis.
 #### Project Presentation:
 View the project presentation, condensing the project's critical findings and recommendations into a concise, engaging format. This presentation aims to provide a quick overview of the project's main takeaways, making it accessible to a broader audience.
 
-<img src="images/Customer segmentation.png?raw=true"/> 
+<img src="TravelTide/Customer segmentation.png?raw=true"/> 
 
-- [TravelTide report](https://Angelinabaf.github.io/pdf/Report_Travel_Tide.pdf)
-- [TravelTide presentation](https://Angelinabaf.github.io/pdf/Presentation_Travel_Tide.pdf)
+- [TravelTide report](https://Angelinabaf.github.io/TravelTide/Report_Travel_Tide.pdf)
+- [TravelTide presentation](https://Angelinabaf.github.io/TravelTide/Presentation_Travel_Tide.pdf)
 - [TravelTide Tableau](https://public.tableau.com/views/TravelTide_16945881963670/TravelTide?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
@@ -55,10 +55,10 @@ Access a comprehensive report that meticulously breaks down the A/B test analysi
 #### Project Presentation: 
 Dive into the project presentation, a succinct yet engaging overview of the key findings and recommendations. This presentation aims to encapsulate the primary insights from the A/B test analysis and its relevance to the GloBox website's objectives.
 
-<img src="images/GloBox_Project_logo.png?raw=true"/>
+<img src="GloBox/GloBox_Project_logo.png?raw=true"/>
 
 
-- [GloBox A/B testing report](https://Angelinabaf.github.io/pdf/GloBox_A_Btesting_Report.pdf)
-- [GloBox A/B testing presentation](https://Angelinabaf.github.io/pdf/A_B_Testing_presentation.pdf)
+- [GloBox A/B testing report](https://Angelinabaf.github.io/GloBox/GloBox_A_Btesting_Report.pdf)
+- [GloBox A/B testing presentation](https://Angelinabaf.github.io/GloBox/A_B_Testing_presentation.pdf)
 - [GloBox A/B testing Tableau](https://public.tableau.com/views/GloBoxABtest_16886252039130/GloBoxABtest?:language=en-US&:display_count=n&:origin=viz_share_link)
 
