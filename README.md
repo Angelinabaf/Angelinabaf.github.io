@@ -1,6 +1,8 @@
 ## Projects
 By: Anhelina Baftalovska
 
+
+
 ## Metrocar Funnel Analysis
 ### Overview
 The Metrocar project revolves around optimizing the user experience within a ride-sharing app. It is a testament to my analytical skills and ability to provide actionable insights to drive business decisions.
@@ -20,6 +22,8 @@ View the project presentation, which encapsulates the key findings and recommend
 - [Metrocar Tableau](https://public.tableau.com/views/Metrocar-funnel_analysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
+
+
 ## Customer Segmentation for TravelTide's Rewards Program
 ### Overview
 The "Customer Segmentation & Personalized Rewards Program Optimization" project is dedicated to improving customer retention and enhancing the user experience at TravelTide, a prominent e-booking startup. It showcases my proficiency in data analysis and my ability to generate actionable insights for informed business decisions.
@@ -37,6 +41,8 @@ View the project presentation, condensing the project's critical findings and re
 - [TravelTide report](https://Angelinabaf.github.io/pdf/Report_Travel_Tide.pdf)
 - [TravelTide presentation](https://Angelinabaf.github.io/pdf/Presentation_Travel_Tide.pdf)
 - [TravelTide Tableau](https://public.tableau.com/views/TravelTide_16945881963670/TravelTide?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 
 
 ## A/B Test Analysis for GloBox Website.
